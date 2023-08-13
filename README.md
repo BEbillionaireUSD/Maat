@@ -3,7 +3,7 @@
 ![](https://img.shields.io/badge/version-1.0-blue.svg) 
 ![](https://img.shields.io/badge/language-python-orange.svg)
 
-Here is a repo for our paper ``Maat: Performance Metric Anomaly Anticipation for Cloud Services with Conditional Diffusion'', accepted by ASE 2023.
+Here is the repo for our paper ``Maat: Performance Metric Anomaly Anticipation for Cloud Services with Conditional Diffusion'', accepted by ASE 2023.
 
 ## Architecture
 
@@ -50,7 +50,7 @@ We support python3.x $\geq$ 3.7. The environment can be built by:
 For the prediction phase, run:
 ```$ cd src && python predict.py```
 
-For the detection phase, run:
+For the detection phase, you should first extract features and then run:
 ```$ cd src && python detect.py```
 
 
