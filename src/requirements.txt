@@ -1,0 +1,8 @@
+func_timeout==4.3.5
+gluonts==0.10.0
+numpy==1.22.3
+pandas==1.5.2
+PyYAML==6.0
+scikit_learn==1.2.1
+torch==1.10.2+cu111
+tqdm==4.64.1
