@@ -3,9 +3,7 @@
 ![](https://img.shields.io/badge/version-1.0-blue.svg) 
 ![](https://img.shields.io/badge/language-python-orange.svg)
 
-Here is a repo for our submission ``Maat: Performance Metric Anomaly Anticipation for Cloud Services with Conditional Diffusion'' for ASE 2023.
-The detection part can not be directly used at this time, though the model can run. We will provide our compelete feature defination list upon acceptance.
-After that, you can directly extract the features using our calculation code and detect anomalies using our isolation forest.
+Here is a repo for our paper ``Maat: Performance Metric Anomaly Anticipation for Cloud Services with Conditional Diffusion'', accepted by ASE 2023.
 
 ## Architecture
 
