@@ -3,6 +3,8 @@
 ![](https://img.shields.io/badge/version-1.0-blue.svg) 
 ![](https://img.shields.io/badge/language-python-orange.svg)
 
+![maat-7599155_1280](https://github.com/BEbillionaireUSD/Maat/assets/49298462/afbfbc27-7853-40a0-ad00-90efac5d58aa)
+
 Here is the repo for our paper ``Maat: Performance Metric Anomaly Anticipation for Cloud Services with Conditional Diffusion'', accepted by ASE 2023.
 
 ## Architecture
